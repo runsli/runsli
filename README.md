@@ -7,7 +7,7 @@ $ whoami
 ```bash
 $ cat motd.txt
 ```
-Code runs, Life slide.
+Code Runs. Life Moves.
 
 Indie developer — static sites, privacy tools, and macOS utilities.
 
