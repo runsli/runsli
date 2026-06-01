@@ -22,4 +22,4 @@ $ ls ~/projects
 ```bash
 $ cat contact.txt
 ```
-[runsli.com](https://www.runsli.com) · [hi@runsli.com](mailto:hi@runsli.com)
+[runsli.com](https://www.runsli.com) · [contact@runsli.com](mailto:contact@runsli.com)
