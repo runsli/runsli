@@ -16,7 +16,6 @@ $ ls ~/projects
 ```
 - [Slisync](https://github.com/runsli/slisync) — shared memory for people and AI agents
 - [Aonote](https://github.com/Runsli/Aonote) — static blog generator, zero client JS
-- [ZeroRelay](https://github.com/runsli/ZeroRelay) — self-hostable E2EE chat
 - [MTPMate](https://github.com/runsli/MTPMate) — macOS Android/MTP file transfer
 
 ```bash
